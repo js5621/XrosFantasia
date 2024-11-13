@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 257b68d2dc4b00c41aad74796fca26a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_Firball_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3683
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5417231, y: 0.5178827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b3f3f83bb9434c951b71ff0c1ca98
+      internalID: -1872690230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3682
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345c5642c1a2cc4684a4160484bec82
+      internalID: -1816507921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_2
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 3677
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff6cb0a8c2a7d49b548cbd59d611a2
+      internalID: -1022242336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_3
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3672
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5417231, y: 0.5178827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2a5af86c141749b08110e87b2937a
+      internalID: -53973756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_4
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 3678
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a95cfc5e51fe5d45953aba11c8722db
+      internalID: -464566865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_5
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 3672
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5208623, y: 0.5178827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa7ccdcb7166d478dc6a165edb8456
+      internalID: -2064704721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_6
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 3666
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5217493, y: 0.47925115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df917cd5f03c68949b69f7b13e320e76
+      internalID: -1470034728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_7
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 3672
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff4d0107ec838498b4455de889d977
+      internalID: -205218537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3159
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84723b5228df2214f862b7ad700f196e
+      internalID: -1526153650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 3154
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef317dfcfd23124286f61ac5bdc6e89
+      internalID: -1844419499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_10
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3154
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03514dde1a29d42a3a2e1c260b5ad8
+      internalID: -33186294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_11
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3164
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c6ff7ae55eed24ebc67c372b90b4ba
+      internalID: -460079884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_12
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3159
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5715247, y: 0.51782537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c681f612adf40d0439b682e2b6b096b6
+      internalID: 1327657266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_13
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 3165
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca49f87c87c16d44cb332fc36e3b05de
+      internalID: -544431538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_14
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 3165
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac79dfdeb86e5499be1907f26f3660
+      internalID: -430248090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_15
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3170
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432d24dc074ab747a11a4b24a47e4eb
+      internalID: -846802449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2658
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbbcaf67f75e7049806575da573fb9b
+      internalID: -1987462433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2652
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ffa5f345d6f34f81684ef8977470c
+      internalID: -1640062482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2641
+        width: 273
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd53104a4e4c14fb886b1bb6b22a18
+      internalID: 1680011839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_19
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2641
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff23debab023d49a622b40015596f1
+      internalID: 476783256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_20
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2653
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe10f2d8103aa448ae283aa7844a662
+      internalID: 1382836809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_21
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2647
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d508967681ba4fb316bc43c5fd280
+      internalID: 1981033174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_22
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2653
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf986fa171b4baa4fad646fee28c1c59
+      internalID: 1493379285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_23
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 2652
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00161c4b3050b4ca30b8aed8c084fa
+      internalID: -1051851579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2123
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5208617, y: 0.51788193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704513f807c80043827731e6f9d795b
+      internalID: 1646745958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2128
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218666695fbee444a014de1d539160e
+      internalID: -1627678874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_26
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2123
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfb4d37b74fc3498339e73a3220a32
+      internalID: 1060873533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_27
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2129
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226dea2eb326cc42812919c016c9f9b
+      internalID: -400280637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_28
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2145
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e093adc0340ca4eb638073a4a5c94d
+      internalID: 903232989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_29
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2134
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7d645960d21146a70a043ab336341
+      internalID: 1563148674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_30
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 2140
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe4f6e98e738d479df4644e0f2f4fe
+      internalID: -806324685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_31
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 2140
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2709f70eee17b4881382d030d1c92e
+      internalID: -1770922075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1617
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d4f039425adf4da564d3bb259df70
+      internalID: 1807541017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_33
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1616
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb696ccfd8133884d96616b94c0434d6
+      internalID: -1940758962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_34
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1622
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c992cda544e80488b3cfb09700e55f
+      internalID: -1931207612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_35
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1621
+        width: 270
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7379315afddfe7546a862ab0962d0d37
+      internalID: -1123565357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_36
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1610
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed7a7dc8c376140827c0384737cb3b
+      internalID: -640851751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_37
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1616
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f0bf052745524b91697c961031fc9
+      internalID: 2025969072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_38
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1610
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124afc66033c304fa540cbab9bde917
+      internalID: -136021059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_39
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1621
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474b7e13bb106c45aec3a314af2d1bf
+      internalID: 421363273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1115
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd34c63537b7c40a0b007b281461f2
+      internalID: -328566064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1115
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c707cbfd772714cbba8a7401a75284
+      internalID: 1182678723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_42
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1121
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949427629fb39c44194d79604876ed5c
+      internalID: -1502425747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_43
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1121
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb057e20ce6b54b8bff91ba57ae6ea
+      internalID: -1165310160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_44
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1109
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96fcdc6342027e4aa3e860c986029a0
+      internalID: 1881460482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_45
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1097
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a75a3eaf2628e41b6befeb386bd16e
+      internalID: 2052138653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_46
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1104
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309f19bc801edb42af4bb1f9593f4e7
+      internalID: 1664563366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_47
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1103
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8398e6c373a74790207d226501feb
+      internalID: -404189585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 586
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df038a4cf805f40b502e891580edaf
+      internalID: 1654397507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 591
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8dd10304d4b164e88a50337c520d3c
+      internalID: -1033545125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_50
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 591
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f353493e4dc842499707777792d16a5
+      internalID: -2088190359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_51
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 602
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38414429c322bf8479752c25613be5cc
+      internalID: -1584782402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_52
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 602
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa75ac9e33aaee4b8ae74d593c27340
+      internalID: 1620618313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_53
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 602
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93f1c617dfbc44e89ba6476d5e957c
+      internalID: 1824917519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_54
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 608
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97f217c0cea1f45bb0f1e8765db1cf
+      internalID: 695320273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_55
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 602
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca099671840a46e468af337074eb961c
+      internalID: -45907395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 78
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1318ac3f97997a419b139b534c28376
+      internalID: -1701248656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_57
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 95
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bd7402a9c7d64794ff2ccabc37be0
+      internalID: -781164261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_58
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 90
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de5de099f83ed4a8c4e9dc476dabf5
+      internalID: -1834443884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_59
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 78
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836c180d262ade4888802a72d1e95c0
+      internalID: -1882744394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_60
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 79
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511d74f7492d6d449b85ac179cd6ba6
+      internalID: 1503010503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_61
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 90
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05346f156bb76df42ab6870215446829
+      internalID: 1645224461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_62
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 78
+        width: 270
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7443bbcc3af9439293e2d45827633
+      internalID: 1871490220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_Firball_63
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 88
+        width: 270
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f7ccbf92b30c4b952e4abca74d05e
+      internalID: 1440983887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_Firball_0: -1872690230
+      boss_Firball_1: -1816507921
+      boss_Firball_10: -33186294
+      boss_Firball_11: -460079884
+      boss_Firball_12: 1327657266
+      boss_Firball_13: -544431538
+      boss_Firball_14: -430248090
+      boss_Firball_15: -846802449
+      boss_Firball_16: -1987462433
+      boss_Firball_17: -1640062482
+      boss_Firball_18: 1680011839
+      boss_Firball_19: 476783256
+      boss_Firball_2: -1022242336
+      boss_Firball_20: 1382836809
+      boss_Firball_21: 1981033174
+      boss_Firball_22: 1493379285
+      boss_Firball_23: -1051851579
+      boss_Firball_24: 1646745958
+      boss_Firball_25: -1627678874
+      boss_Firball_26: 1060873533
+      boss_Firball_27: -400280637
+      boss_Firball_28: 903232989
+      boss_Firball_29: 1563148674
+      boss_Firball_3: -53973756
+      boss_Firball_30: -806324685
+      boss_Firball_31: -1770922075
+      boss_Firball_32: 1807541017
+      boss_Firball_33: -1940758962
+      boss_Firball_34: -1931207612
+      boss_Firball_35: -1123565357
+      boss_Firball_36: -640851751
+      boss_Firball_37: 2025969072
+      boss_Firball_38: -136021059
+      boss_Firball_39: 421363273
+      boss_Firball_4: -464566865
+      boss_Firball_40: -328566064
+      boss_Firball_41: 1182678723
+      boss_Firball_42: -1502425747
+      boss_Firball_43: -1165310160
+      boss_Firball_44: 1881460482
+      boss_Firball_45: 2052138653
+      boss_Firball_46: 1664563366
+      boss_Firball_47: -404189585
+      boss_Firball_48: 1654397507
+      boss_Firball_49: -1033545125
+      boss_Firball_5: -2064704721
+      boss_Firball_50: -2088190359
+      boss_Firball_51: -1584782402
+      boss_Firball_52: 1620618313
+      boss_Firball_53: 1824917519
+      boss_Firball_54: 695320273
+      boss_Firball_55: -45907395
+      boss_Firball_56: -1701248656
+      boss_Firball_57: -781164261
+      boss_Firball_58: -1834443884
+      boss_Firball_59: -1882744394
+      boss_Firball_6: -1470034728
+      boss_Firball_60: 1503010503
+      boss_Firball_61: 1645224461
+      boss_Firball_62: 1871490220
+      boss_Firball_63: 1440983887
+      boss_Firball_7: -205218537
+      boss_Firball_8: -1526153650
+      boss_Firball_9: -1844419499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
